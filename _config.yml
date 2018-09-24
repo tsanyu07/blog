@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Binota Blog
 subtitle:
 description:
 keywords:
-author: John Doe
+author: BinotaLIU
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://binota.org/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
